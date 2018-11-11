@@ -3,6 +3,6 @@ Tab:int 1
 SourceViewID E00B06IV
 Source {"id" : "E00B06IV","t" : 0,"sel" : {}}
 RecordViewID 000000052BFF8F6773
-Record {"id" : "E00B05OS","t" : 48.05,"sel" : {}}
-Bin GZ1Z0000|INVALID
+Record {"id" : "E00B05OS","t" : 56.5167,"sel" : {}}
+Bin GZ1Z0002|INVALID
 }

@@ -9,7 +9,6 @@
          "IS_SOURCE_VIEWER" : "int=1",
          "GROUPID" : "String=E00B06IV",
          "CurrentTime" : "double=0.00000000",
-         "000000052BFF9B598000061" : "String=-1.000000000000 -1.000000000000 1",
          "000000052BFF9B14800005E" : "String=-1.000000000000 -1.000000000000 1",
          "000000052BFF9B148000055" : "String=-1.000000000000 -1.000000000000 1"
       },
@@ -22,14 +21,13 @@
          "ReelGallery" : "int=0",
          "LastTab" : "String=Project Contents",
          "handle" : "String=GZ1Z0000",
-         "E00B06JL" : "String=E00B06JL",
-         "E00B06JK" : "String=E00B06JK",
-         "E00B06J3" : "String=E00B06J3",
-         "E00B06IX" : "String=E00B06IX",
-         "E00B06IV" : "String=E00B06IV",
+         "E00B06JL" : "String=00000006000021222122",
+         "E00B06JK" : "String=00000006000021212121",
+         "E00B06J3" : "String=00000006000021102110",
+         "E00B06IX" : "String=000000060000210A210A",
+         "E00B06IV" : "String=00000006000021082108",
          "E00B05OJ" : "String=0000000600001CC41CC4",
          "E00B05OI" : "String=0000000600001CC31CC3",
-         "E00B05O5" : "String=0000000600001CB61CB6",
          "BinHandle" : "String=GZ1Z0000|INVALID"
       }
    },
