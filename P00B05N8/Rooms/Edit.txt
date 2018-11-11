@@ -6,10 +6,12 @@
          "SplitterPos" : "int=88",
          "size" : "int=0",
          "ShowNavigator" : "bool=true",
-         "ScrollPos0" : "String=G00B0Q84=0.226786",
          "ReelGallery" : "int=0",
          "LastTab" : "String=Project Contents",
          "handle" : "String=G00B0Q84",
+         "E00B0X2W" : "String=000000052BFFF19FCB",
+         "E00B0SWJ" : "String=000000052BFFED33AC",
+         "E00B0SWE" : "String=000000052BFFED0D3",
          "E00B0QGD" : "String=000000052BFFE1C10",
          "E00B0QGA" : "String=000000052BFFE1B4BA",
          "E00B0QE3" : "String=000000052BFFE059A1",
@@ -24,7 +26,7 @@
       }
    },
    "Splits" : {
-      "Value" : 0.4894,
+      "Value" : 0.5836,
       "Top" : {
          "Value" : 0.224
       }
