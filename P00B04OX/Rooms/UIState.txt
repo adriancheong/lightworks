@@ -1,0 +1,8 @@
+{
+Tab:int 1
+SourceViewID E00B04Q5
+Source {"id" : "E00B04Q5","t" : 0,"sel" : {}}
+RecordViewID 000000052BFF815B73
+Record {"id" : "E00B04QF","t" : 26.1833,"sel" : {"000000052BFF827E800000E" : false,"000000052BFF815B8000021" : false,"000000052BFF815B8000024" : false,"000000052BFF815B8000027" : false}}
+Bin GZ1Z0000|INVALID
+}

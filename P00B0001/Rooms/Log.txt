@@ -1,0 +1,40 @@
+{
+   "Components" : {
+      "viewer" : {
+         "WHAT_TIME" : "int=1",
+         "TIME_LABEL" : "String=ULTTC=1,2",
+         "TIME_DISPLAY" : "String=strip",
+         "OUTPUT_CHASE_LTC" : "int=0",
+         "NAME" : "cookie=E00B04LT",
+         "IS_SOURCE_VIEWER" : "int=1",
+         "GROUPID" : "String=000000052BFE84070",
+         "CurrentTime" : "double=0.00000000",
+         "000000052BFE83FC800003B" : "String=-1.000000000000 -1.000000000000 1",
+         "000000052BFE83FC800002D" : "String=-1.000000000000 -1.000000000000 1",
+         "000000052BFE83FC8000024" : "String=-1.000000000000 -1.000000000000 1"
+      },
+      "MultiSourceContentPanel" : {
+         "View" : "int=1",
+         "TileSize" : "String=ISPLargeThumb",
+         "SplitterPos" : "int=101",
+         "size" : "int=0",
+         "ShowNavigator" : "bool=true",
+         "ReelGallery" : "int=0",
+         "LastTab" : "String=Local Files",
+         "handle" : "String=GZ1Z0000",
+         "E00B04LT" : "String=E00B04LT",
+         "E00B04GP" : "String=E00B04GP",
+         "E00B04GO" : "String=E00B04GO",
+         "BinHandle" : "String=GZ1Z0000|INVALID"
+      }
+   },
+   "Splits" : {
+      "Value" : 0.5,
+      "Right" : {
+         "Value" : 0.3749
+      }
+   },
+   "Misc" : {
+      "TileSize" : "ISPLargeThumb"
+   }
+}

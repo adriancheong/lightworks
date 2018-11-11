@@ -1,0 +1,27 @@
+{
+   "Components" : {
+      "viewer" : {
+         "WHAT_TIME" : "int=0",
+         "TIME_DISPLAY" : "String=edit",
+         "OUTPUT_CHASE_LTC" : "int=0",
+         "NAME" : "cookie=E00B04GZ",
+         "GROUPID" : "String=000000052BFE817773",
+         "CurrentTime" : "double=60.46666667",
+         "000000052BFE830F8000494" : "String=-1.000000000000 -1.000000000000 1",
+         "000000052BFE82608000022" : "String=-1.000000000000 -1.000000000000 1",
+         "000000052BFE825B8000460" : "String=-1.000000000000 -1.000000000000 1",
+         "000000052BFE825B800001F" : "String=-1.000000000000 -1.000000000000 1",
+         "000000052BFE825B800001C" : "String=-1.000000000000 -1.000000000000 1",
+         "000000052BFE825B8000014" : "String=-1.000000000000 -1.000000000000 1"
+      }
+   },
+   "Splits" : {
+      "Value" : 0.25,
+      "Right" : {
+         "Value" : 0.151
+      }
+   },
+   "Misc" : {
+      "TileSize" : "ISPSmallThumb"
+   }
+}
