@@ -5,12 +5,12 @@
          "TIME_LABEL" : "String=ULTTC=1,2",
          "TIME_DISPLAY" : "String=strip",
          "OUTPUT_CHASE_LTC" : "int=0",
-         "NAME" : "cookie=E00B0X7Y",
+         "NAME" : "cookie=E00B0XYM",
          "IS_SOURCE_VIEWER" : "int=1",
-         "GROUPID" : "String=000000052C000C42137",
-         "CurrentTime" : "double=4.48333333",
-         "000000052C000C42800006D" : "String=-1.000000000000 -1.000000000000 1",
-         "000000052C000C428000064" : "String=-1.000000000000 -1.000000000000 1"
+         "GROUPID" : "String=000000052C001AB815D",
+         "CurrentTime" : "double=0.00000000",
+         "000000052C001AB88000059" : "String=-1.000000000000 -1.000000000000 1",
+         "000000052C001AB88000050" : "String=-1.000000000000 -1.000000000000 1"
       },
       "MultiSourceContentPanel" : {
          "View" : "int=1",
@@ -20,18 +20,17 @@
          "ShowNavigator" : "bool=true",
          "ReelGallery" : "int=0",
          "LastTab" : "String=Local Files",
-         "handle" : "String=G00B0PNG",
-         "E00B0X7Y" : "String=000000052C000C42137",
-         "E00B0X7V" : "String=000000052C000C36DF",
-         "E00B0X7N" : "String=000000052C000BCB12E",
-         "E00B0X71" : "String=000000052C000AF5128",
-         "E00B0PNR" : "String=000000052C000AC80",
-         "E00B0PNP" : "String=000000052C000AC575",
-         "E00B0PNN" : "String=000000052C000AC558",
-         "E00B0PNL" : "String=000000052C000AC53B",
-         "E00B0PNJ" : "String=000000052C000AC51E",
-         "E00B0PNH" : "String=000000052C000AC51",
-         "BinHandle" : "String=G00B0PNG|INVALID"
+         "handle" : "String=G00B0XUY",
+         "E00B0XYT" : "String=000000052C001AD5E1",
+         "E00B0XYP" : "String=000000052C001ACE11F",
+         "E00B0XYM" : "String=000000052C001AB815D",
+         "E00B0XVG" : "String=000000052C001700285",
+         "E00B0XV8" : "String=000000052C001700249",
+         "E00B0XV6" : "String=000000052C00170023A",
+         "E00B0XV4" : "String=000000052C00170022B",
+         "E00B0XV2" : "String=000000052C001700219",
+         "E00B0XUZ" : "String=000000052C0017001FB",
+         "BinHandle" : "String=G00B0XUY|INVALID"
       }
    },
    "Splits" : {
