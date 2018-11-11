@@ -28,6 +28,7 @@
          "E00B06IV" : "String=00000006000021082108",
          "E00B05OJ" : "String=0000000600001CC41CC4",
          "E00B05OI" : "String=0000000600001CC31CC3",
+         "E00B05O5" : "String=0000000600001CB61CB6",
          "BinHandle" : "String=GZ1Z0000|INVALID"
       }
    },

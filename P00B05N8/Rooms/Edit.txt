@@ -7,8 +7,10 @@
          "size" : "int=0",
          "ShowNavigator" : "bool=true",
          "ReelGallery" : "int=0",
-         "LastTab" : "String=Local Files",
+         "LastTab" : "String=Project Contents",
          "handle" : "String=GZ1Z0000",
+         "E00B0L6F" : "String=E00B0L6F",
+         "E00B0EEB" : "String=E00B0EEB",
          "E00B06JL" : "String=00000006000021222122",
          "E00B06JK" : "String=00000006000021212121",
          "E00B06J3" : "String=00000006000021102110",
@@ -16,6 +18,7 @@
          "E00B06IV" : "String=00000006000021082108",
          "E00B05OJ" : "String=0000000600001CC41CC4",
          "E00B05OI" : "String=0000000600001CC31CC3",
+         "E00B05O5" : "String=0000000600001CB61CB6",
          "BinHandle" : "String=GZ1Z0000|INVALID"
       },
       "SourceRecordViewerPanel" : {
