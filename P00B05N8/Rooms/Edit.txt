@@ -8,24 +8,21 @@
          "ShowNavigator" : "bool=true",
          "ReelGallery" : "int=0",
          "LastTab" : "String=Project Contents",
-         "handle" : "String=G00B0XUY",
-         "E00B0XYT" : "String=000000052C001F299E",
-         "E00B0XYP" : "String=000000052C001F299D",
-         "E00B0XYM" : "String=000000052C001F299B",
-         "E00B0XVG" : "String=000000052C001F25A5",
-         "E00B0XV8" : "String=000000052C001F2588",
-         "E00B0XV6" : "String=000000052C001F256B",
-         "E00B0XV4" : "String=000000052C001F255C",
-         "E00B0XV2" : "String=000000052C001F254C",
-         "E00B0XUZ" : "String=000000052C001F2531",
-         "BinHandle" : "String=G00B0XUY|INVALID"
+         "handle" : "String=G00B0XIK",
+         "E00B110X" : "String=000000052C016A65DE",
+         "E00B0XYR" : "String=000000052C016AAC11",
+         "E00B0XI5" : "String=000000052C016A341",
+         "E00B0XI3" : "String=000000052C016A3410",
+         "E00B0XE5" : "String=000000052C016A363",
+         "E00B0X7P" : "String=000000052C016BF011",
+         "BinHandle" : "String=G00B0XIK|INVALID"
       },
       "SourceRecordViewerPanel" : {
          "SourceVisible" : "bool=true"
       }
    },
    "Splits" : {
-      "Value" : 0.5836,
+      "Value" : 0.5887,
       "Top" : {
          "Value" : 0.2633
       }
