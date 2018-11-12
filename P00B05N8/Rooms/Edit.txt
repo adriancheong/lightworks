@@ -9,7 +9,7 @@
          "ReelGallery" : "int=0",
          "LastTab" : "String=Project Contents",
          "handle" : "String=GZ1Z0002",
-         "E00B2V1I" : "String=E00B2V1I",
+         "E00B2V1I" : "String=00000006000209A7209A7",
          "BinHandle" : "String=GZ1Z0002|INVALID"
       },
       "SourceRecordViewerPanel" : {
