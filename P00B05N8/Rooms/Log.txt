@@ -5,12 +5,12 @@
          "TIME_LABEL" : "String=ULTTC=1,2",
          "TIME_DISPLAY" : "String=strip",
          "OUTPUT_CHASE_LTC" : "int=0",
-         "NAME" : "cookie=E00B2UT1",
+         "NAME" : "cookie=E00B19NF",
          "IS_SOURCE_VIEWER" : "int=1",
-         "GROUPID" : "String=E00B2UT1",
-         "CurrentTime" : "double=0.00000000",
-         "000000052C018E2C8000018" : "String=-1.000000000000 -1.000000000000 1",
-         "000000052C018E2C800000F" : "String=-1.000000000000 -1.000000000000 1"
+         "GROUPID" : "String=000000052C02D06810",
+         "CurrentTime" : "double=5.26666667",
+         "000000052C017BF380000F2" : "String=-1.000000000000 -1.000000000000 1",
+         "000000052C017BF380000E9" : "String=-1.000000000000 -1.000000000000 1"
       },
       "MultiSourceContentPanel" : {
          "View" : "int=1",
@@ -20,11 +20,14 @@
          "ShowNavigator" : "bool=true",
          "ReelGallery" : "int=0",
          "LastTab" : "String=Local Files",
-         "handle" : "String=GZ1Z0002",
-         "E00B2UT1" : "String=E00B2UT1",
-         "E00B2USX" : "String=E00B2USX",
-         "E00B2UNQ" : "String=E00B2UNQ",
-         "BinHandle" : "String=GZ1Z0002|INVALID"
+         "handle" : "String=G00B19NB",
+         "E00B19NH" : "String=000000052C02D0681F",
+         "E00B19NF" : "String=000000052C02D06810",
+         "E00B19ND" : "String=000000052C02D0681",
+         "E00B0XDB" : "String=000000052C02D0691",
+         "E00B0XD7" : "String=000000052C02D06840",
+         "E00B0XD4" : "String=000000052C02D0682E",
+         "BinHandle" : "String=G00B19NB|INVALID"
       }
    },
    "Splits" : {
